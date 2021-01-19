@@ -1,0 +1,3 @@
+# Python快速教程源码仓库
+[Python快速教程](https://www.zhihu.com/column/c_1329911761928015872)的源码仓库。
+持续更新ing...
